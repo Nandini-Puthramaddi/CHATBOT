@@ -27,8 +27,7 @@ The chatbot is designed to provide gadget suggestions and respond to user querie
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/Nandini-Puthramaddi/CHATBOT.git
-](https://github.com/Nandini-Puthramaddi/CHATBOT.git)
+   git clone [https://github.com/Nandini-Puthramaddi/CHATBOT.git](https://github.com/Nandini-Puthramaddi/CHATBOT.git)
    cd ChatBot
    ```
 
