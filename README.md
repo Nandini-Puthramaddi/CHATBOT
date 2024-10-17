@@ -158,7 +158,7 @@ The chatbot works as follows:
 If you would like to contribute to the chatbot, please feel free to fork the repository and submit a pull request.
 
 # Contact
-If you have any questions about the chatbot, please feel free to open an issue in the repository or contact me at `valasalarakesh1254@gmail.com`.
+If you have any questions about the chatbot, please feel free to open an issue in the repository or contact me at `nandini60707@gmail.com`.
 
 
 
